@@ -98,7 +98,7 @@
 &kp ESCAPE  &kp EXCL  &kp AT  &kp POUND  &kp DLLR  &kp PRCNT                            &kp C_VOL_UP              &kp CARET  &kp AMPS  &kp STAR  &kp LPAR  &kp RPAR      &kp F5
 &trans      &trans    &trans  &trans     &kp SEMI  &kp MINUS            &kp C_PREVIOUS  &kp C_MUTE    &kp C_NEXT  &kp EQUAL  &kp APOS  &kp LBKT  &kp RBKT  &kp BSLH      &kp F9
 &trans      &trans    &trans  &trans     &trans    &trans     &trans                    &kp C_VOL_DN              &kp UNDER  &kp PLUS  &kp LBRC  &kp RBRC  &kp QUESTION  &kp GRAVE
-                              &trans     &trans    &kp SPACE                                                      &to 3      &trans    &trans
+                              &trans     &trans    &trans                                                         &trans     &to 3     &trans
             >;
         };
 
