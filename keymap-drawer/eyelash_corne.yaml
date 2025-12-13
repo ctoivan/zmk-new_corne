@@ -153,7 +153,7 @@ layers:
   - Q
   - W
   - E
-  - T
+  - R
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -162,7 +162,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '1', s: '!'}
-  - $$mdi:apple-keyboard-shift$$
+  - {t: '3', s: '#'}
   - A
   - S
   - D
@@ -177,9 +177,9 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '2', s: '@'}
-  - $$mdi:apple-keyboard-control$$
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:apple-keyboard-shift$$
+  - T
+  - X
   - C
   - F
   - {t: '$$mdi:transfer$$', type: trans}
@@ -190,8 +190,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - $$mdi:apple-keyboard-option$$
+  - T
+  - $$mdi:apple-keyboard-control$$
   - $$mdi:keyboard-space$$
   - {t: main, h: toggle}
   - {t: '$$mdi:transfer$$', type: trans}
