@@ -104,10 +104,10 @@
 
         gaming_layer {
             bindings = <
-&kp ESC  &kp TAB         &kp Q  &kp W  &kp E      &kp R                        &trans          &trans  &trans  &trans  &trans  &trans  &trans
-&kp N1   &kp N3          &kp A  &kp S  &kp D      &kp G                &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&kp N2   &kp LEFT_SHIFT  &kp T  &kp X  &kp C      &kp F      &trans            &trans          &trans  &trans  &trans  &trans  &trans  &trans
-                                &kp T  &kp LCTRL  &kp SPACE                                    &to 0   &trans  &trans
+&kp ESC  &kp TAB         &kp Q         &kp W   &kp E      &kp R                        &trans          &trans  &trans  &trans  &trans  &trans  &trans
+&kp N1   &kp T           &kp A         &kp S   &kp D      &kp G                &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp N2   &kp LEFT_SHIFT  &kp LEFT_ALT  &kp X   &kp C      &kp F      &trans            &trans          &trans  &trans  &trans  &trans  &trans  &trans
+                                       &kp N3  &kp LCTRL  &kp SPACE                                    &to 0   &trans  &trans
             >;
 
             label = "game";
