@@ -119,7 +119,7 @@ layers:
   - {t: ;, s: ':'}
   - _
   - PREVIOUS
-  - $$mdi:volume-off$$
+  - $$mdi:play-pause$$
   - $$mdi:skip-next$$
   - {t: '=', s: +}
   - .
