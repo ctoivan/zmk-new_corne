@@ -67,13 +67,13 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: ;, s: ':'}
+  - ':'
   - {t: '-', s: _}
   - $$mdi:skip-previous$$
   - PLAY PAUSE
   - $$mdi:skip-next$$
-  - {t: '=', s: +}
-  - {t: '''', s: '"'}
+  - +
+  - '"'
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: \, s: '|'}
@@ -117,7 +117,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '`', s: '~'}
   - {t: ;, s: ':'}
-  - {t: '-', s: _}
+  - _
   - PREVIOUS
   - $$mdi:volume-off$$
   - $$mdi:skip-next$$
